@@ -1,0 +1,7 @@
+1819:2021-10-09 20:13:36,638:transport.py:Connected (version 2.0, client OpenSSH_7.6p1):
+1819:2021-10-09 20:13:38,075:transport.py:Authentication (password) successful!:
+12:2021-10-09 20:13:39,122:paramiko_log.py::
+12:2021-10-09 20:13:39,919:paramiko_log.py::
+12:2021-10-09 20:13:40,840:paramiko_log.py::
+12:2021-10-09 20:13:41,762:paramiko_log.py:bash: dmidcore: command not found
+:

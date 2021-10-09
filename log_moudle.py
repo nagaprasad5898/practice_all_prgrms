@@ -9,6 +9,7 @@ there are different types of levels
 4)ERROR
 5)CRITICAL
 """
+usr=(input("enter usr name:") or "kanna")
 def addit(a,b):
     return a+b
 obj=addit(40,50)
